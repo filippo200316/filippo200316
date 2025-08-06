@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Ciao, sono Filippo Bellani!
 
-<!--
-**filippo200316/filippo200316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Studente di Ingegneria Informatica presso l’Università di Brescia (3° anno)  
+💡 Appassionato di programmazione creativa, grafica, logica e progettazione software  
+🧠 Amo imparare tecniche nuove e trasformare le idee in progetti reali  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Progetti in evidenza
+
+
+---
+
+## 🛠️ Tecnologie e strumenti
+
+`Java` | `Swing` | `JUnit` | `HTML/CSS` | `Git & GitHub` | `MVC` | `Figma` | `Visual Studio Code` | `NetBeans`
+
+---
+
+## 🔍 In cosa mi sto specializzando
+
+- 👨‍💻 Programmazione orientata agli oggetti
+- 🧪 Testing automatico (JUnit 4)
+- 🎮 Interfacce grafiche interattive (GUI)
+- 🧩 Progetti strutturati (MVC, modularità, manutenzione)
+- 🎲 Algoritmi per logiche random e giochi
+
+---
+
+## 📬 Contatti
+
+📧 Email: **filippobellani.dev@gmail.com**  
+🔗 LinkedIn: [linkedin.com/in/filippobellani](https://linkedin.com/in/filippobellani) *(se lo hai)*  
+💻 GitHub: [github.com/filippobellani](https://github.com/filippobellani)
+
+---
+
+> “Il codice non è solo funzionale. È una forma di design.”
+
